@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,news_counter,tweet_counter,date
+ESG,260,2021-12-07 20:06:29.236282+00:00,247,15,2021-12-07
