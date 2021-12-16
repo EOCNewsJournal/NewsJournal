@@ -1,0 +1,22 @@
+PartitionKey,RowKey,date,news_counter,tweet_counter
+BNP Paribas,20,2021-12-09,0,15
+Bank of New York Mellon,8,2021-12-09,11,10
+Barclays,37,2021-12-09,23,15
+Citigroup,0,2021-12-09,15,15
+Clearstream,0,2021-12-09,0,15
+Credit Suisse,0,2021-12-09,13,15
+Danske Banke,9,2021-12-09,4,0
+Deutsche Boerse,3,2021-12-09,0,15
+ESG,349,2021-12-09,98,15
+EUREX,1,2021-12-09,0,15
+EuroCCP,0,2021-12-09,0,0
+EuroNext,26,2021-12-09,11,15
+Euroclear,4,2021-12-09,0,15
+HSBC,26,2021-12-09,9,9
+ICE Clear Europe,8,2021-12-09,3,1
+JPMorgan Chase,48,2021-12-09,16,15
+LCH Ltd,0,2021-12-09,0,0
+LCH SA,0,2021-12-09,0,2
+London Stock Exchange,27,2021-12-09,13,15
+Morgan Stanley,76,2021-12-09,45,15
+Nomura,0,2021-12-09,49,15
