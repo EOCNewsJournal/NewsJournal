@@ -1,0 +1,3 @@
+PartitionKey,RowKey,date,news_counter,tweet_counter
+ESG,347,2021-12-08,93,15
+Societe Generale,18,2021-12-08,0,15
