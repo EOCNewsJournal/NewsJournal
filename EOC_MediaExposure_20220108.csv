@@ -1,0 +1,4 @@
+PartitionKey,RowKey,Timestamp,news_counter,tweet_counter,date
+Clearstream,337,2022-01-08 00:13:24,0,15,2022-01-08
+Deutsche Boerse,236,2022-01-08 00:48:48,0,14,2022-01-08
+Euroclear,260,2022-01-08 00:01:03,0,15,2022-01-08
