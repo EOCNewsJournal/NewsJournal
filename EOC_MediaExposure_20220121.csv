@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,date,news_counter,tweet_counter
+Clearstream,387,2022-01-21 00:02:33.314685+00:00,2022-01-21,3,15
