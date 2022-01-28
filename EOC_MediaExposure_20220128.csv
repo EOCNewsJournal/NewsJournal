@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,date,news_counter,tweet_counter
+EuroNext,381,2022-01-28 00:07:25.576848+00:00,2022-01-28,11,15
