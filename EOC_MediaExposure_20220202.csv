@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,date,news_counter,tweet_counter
+Euroclear,341,2022-02-02 00:01:47.890468+00:00,2022-02-02,2,15
