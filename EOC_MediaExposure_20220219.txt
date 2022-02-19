@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,date,news_counter,tweet_counter
+Deutsche Boerse,256,2022-02-19 00:06:54.881727+00:00,2022-02-19,6,15
