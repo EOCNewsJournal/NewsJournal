@@ -1,0 +1,1 @@
+UID,Searchword,API,URL,Title,Summary,Article,Title_Sentiment,Title_Positive,Title_Neutral,Title_Negative,Article_Sentiment,Article_Positive,Article_Neutral,Article_Negative,Verified,Language,Topics,Date,Load_Date,Source
